@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C/C++, Java, Pyhton, TypeScript, JavaScript  
+- **Languages**: C/C++, C#, Java, Pyhton, TypeScript, JavaScript  
 - **Backend**: Node.js (Express.js), Spring Boot, Flask 
 - **Frontend**: HTML, CSS, Tailwind CSS, HTMX (learning)  
 - **Database**: MySQL, PostgreSQL, MongoDB
