@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Abd El-Rahman Hayder!
 
 🎓 Communication & Computer Engineering @ Cairo University  
-💻 Backend Developer | Software Engineer | Full-Stack AI Enthusiast  
+💻 Backend Developer | Software Engineer | Full-Stack Enthusiast  
 🚀 Building cool things with **Express.js**, **Springboot**, and **Flask**
 
 ---
