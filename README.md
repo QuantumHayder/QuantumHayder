@@ -22,16 +22,15 @@
 
 - 🔁 Building a full **Stripe Subscription System** with Webhooks & Clean Architecture  (Linkedin Clone Project)
 - 🧾 Creating a full **Admin Panel** for analytics, user reports, and payments  (Linkedin Clone Project)
-- 💬 Exploring **AI-powered features** like fraud detection and user insights   
-- 🌐 Growing as a **Full-Stack Developer** with Django + HTMX + Tailwind  
-
+- ✍️ Learning to create CRDTs for collaborative text editors using Java Spring Boot
 ---
 
 ## 💡 Goals for 2025
 
-- ✅ Master Django & Next.js  
-- ✅ Build ML-powered SaaS Projects  
-- ✅ Learn Computer Vision
+- ✅ Master Django and Flask to have backend frameworks for deploying ai models when startting my ai jpurney
+- ✅ Learn frontend fundamentals and confidently dive into React.js and Next.js
+- ✅ Explore computer vision in parallel with learning image recognitiion in university
+- ✅ Improve my current problem-solving level to get ready for big companies technical interviews
 
 ---
 
